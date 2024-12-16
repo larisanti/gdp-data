@@ -1,4 +1,4 @@
-# GDP1997-data
+# gdp-data
 
 ## Project Overview
 
