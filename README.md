@@ -1,6 +1,6 @@
 # GDP Data Analysis (1987-1997)
 
-## Project Overview
+## Project Overview 
 
 This project presents an analysis of U.S. Gross Domestic Product (GDP) data from 1987 to 1997 using Microsoft Excel. The primary objective is to examine how various sectors, including the computer industry, contributed to GDP during this decade. By utilizing tools such as sorting, filtering, and pivot tables, this analysis highlights trends and provides insights into the economic influence of the computer industry during this period.
 
