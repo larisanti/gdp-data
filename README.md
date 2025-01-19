@@ -1,25 +1,25 @@
-# gdp-data
+# GDP Data Analysis (1987-1997)
 
 ## Project Overview
 
-This is a brief analysis of U.S. Gross Domestic Product (GDP) data from 1987 to 1997, conducted in Excel. The goal of this project is to explore how different sectors, including the computer industry, contributed to GDP during this decade. Various Excel tools, such as sorting, filtering, and pivot tables, were used to uncover trends and insights into the economic impact of computers during this period.
+This project presents an analysis of U.S. Gross Domestic Product (GDP) data from 1987 to 1997 using Microsoft Excel. The primary objective is to examine how various sectors, including the computer industry, contributed to GDP during this decade. By utilizing tools such as sorting, filtering, and pivot tables, this analysis highlights trends and provides insights into the economic influence of the computer industry during this period.
 
-## Steps
+## Project Steps
 
 ### 1. **Analyzing GDP Contributions**
-   - Explored two GDP tables showing contributions by category and industry.
-   - Sorted the data by year and billions to identify the largest and smallest contributors for 1987, 1992, and 1997.
-   - Filtered the data to focus on the beginning, middle, and end of the decade and recorded observations.
+- Reviewed two GDP datasets displaying contributions by category and industry.
+- Sorted data by year and value (in billions) to identify the largest and smallest contributors for 1987, 1992, and 1997.
+- Applied filters to examine trends at the beginning, middle, and end of the decade, documenting key observations.
 
 ### 2. **Tracking Sectoral Trends**
-   - Converted raw GDP numbers into percentages to analyze the share of GDP contributed by each category.
-   - Filtered the data to focus on the most relevant categories and analyzed the changes in their contributions over the decade.
-   - Wrote a summary of the trends observed in the data.
+- Converted raw GDP figures into percentages to assess the relative contributions of each category.
+- Focused on the most impactful categories through data filtering and analyzed their changes over the decade.
+- Summarized key sectoral trends based on percentage contributions.
 
-### 3. **Focus on the Computer Industry**
-   - Identified and created a “Computers” category by modifying the data in the “Computers” sheet.
-   - Used a pivot table to analyze how the computer industry contributed to GDP in 1987 and 1997.
-   - Compared the rank of the “Computers” category between 1987 and 1997.
+### 3. **Focusing on the Computer Industry**
+- Created a distinct "Computers" category by restructuring the data from the “Computers” sheet.
+- Leveraged pivot tables to evaluate the computer industry's GDP contributions in 1987 and 1997.
+- Compared the ranking of the "Computers" category over the decade to measure its growth.
 
 ## Built with
 - Microsoft Excel
