@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This is a brief analysis of U.S. Gross Domestic Product (GDP) data from 1987 to 1997, conducted in Excel. The goal is to explore how different sectors, including the computer industry, contributed to GDP during this decade. Various Excel tools, such as sorting, filtering, and pivot tables, will be used to uncover trends and insights into the economic impact of computers during this period.
+This is a brief analysis of U.S. Gross Domestic Product (GDP) data from 1987 to 1997, conducted in Excel. The goal of this project is to explore how different sectors, including the computer industry, contributed to GDP during this decade. Various Excel tools, such as sorting, filtering, and pivot tables, were used to uncover trends and insights into the economic impact of computers during this period.
 
 ## Steps
 
