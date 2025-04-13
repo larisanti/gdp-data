@@ -27,6 +27,3 @@ This project analyzes U.S. GDP data from 1987 to 1997 using Microsoft Excel. The
 ## How to Use
 1. Download the Excel file.
 2. Explore the spreadsheet.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
